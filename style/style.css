@@ -98,6 +98,10 @@ main{
     margin: 10px 0;
     color:hsl(240, 6%, 50%) ;
 }
+.show p{
+    transition-duration: 1s;
+    display: block;
+}
 @media screen and (max-width: 850px){
 
     main{
